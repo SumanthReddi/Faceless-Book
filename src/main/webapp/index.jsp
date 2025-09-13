@@ -3,7 +3,7 @@
     <title>Sample Web App</title>
 </head>
 <body>
-    <h2>Welcome to the Sample Web Application deployed in Tomcat in pressence of Ravindra!</h2>
+    <h2>Welcome to the Sample Web Application deployed in Tomcat in pressence of neeraj!</h2>
     <p><a href="hello">Click here</a> to call the servlet.</p>
 </body>
 </html>
